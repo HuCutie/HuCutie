@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math and Algorithm!
 - 🌱 I’m currently learning ASP.NET Core Framework
 - 💞️ I’m looking to collaborate on Computer Graphics
-- 📫 How to reach me ...
+- 📫 Contact me with husmallcutie@gmail.com
 
 <!---
 HuCutie/HuCutie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
